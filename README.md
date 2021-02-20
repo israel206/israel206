@@ -5,8 +5,8 @@
 
 ### Caso queira mais informações, aqui esta o links das minhas Redes Sociais
 
-### Link do INSTAGRAM:   =>   [Perfil do Instagram](links)
-### Link do FACEBOOK:    =>   [Perfil do Facebook](links)
-### Link do LINKEDIN:    =>   [Perfil do Linkedin](links)
+### Link do INSTAGRAM:   =>   [Perfil do Instagram](https://www.instagram.com/is_charlles)
+### Link do FACEBOOK:    =>   [Perfil do Facebook](https://www.facebook.com/israel.pereira.3914)
+### Link do LINKEDIN:    =>   [Perfil do Linkedin](https://www.linkedin.com/in/israel-silva-047049128)
 
 ### Vamos nos conectar? 👋
