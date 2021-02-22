@@ -2,10 +2,11 @@
 
 #### Prazer, Sou o Israel! Um cara que ama tecnologia  👨‍💻
 
-- 🎓Graduando em Analise de Sistema no Curso de Sistema de Informação
-- 💻Experiencia: Python, Java, SpringBoot, framework Angular, html, css, JavaScript, Nodejs, bootstrap, Scrum, Git, Prototipação, Metodologia ágil
+- 🎓Graduando em Analista de Sistema no Curso de Sistema de Informação
+- 👨‍💻Desenvolvedor FullStack
+- 💻Experiencia: Python, Java, SpringBoot, framework Angular, Android, html, css, JavaScript, Nodejs, bootstrap, Scrum, Git, UX, Prototipação, Metodologia ágil
 - 📚Estou aprendendo: , ReactJs, ReactNative, TypeScript,
-- 🎯 Tenho interesse:  Em desenvolvimento software Desktop, Web e aplicações para dispositivos mobile 
+- 🎯 Tenho interesse: Em desenvolvimento Software Desktop, Web, Aplicações para dispositivos Mobile, Gestão de Projetos 
 
 O  aprendizado é continuo e o próximo nível nunca será o ultimo 🚀 
 
