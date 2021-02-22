@@ -9,14 +9,12 @@
 
 O  aprendizado é continuo e o próximo nível nunca será o ultimo 🚀 
 
-#### link do PortFolio pessoal sobre os projetos e experiencias nas tecnologias utilizadas.
-#### Link da página de portfolio pessoal de projetos: [PortFolio Pessoal](https://israel206.github.io/)
+#### Link do PortFolio pessoal sobre os projetos e experiencias nas tecnologias utilizadas:[PortFolio Pessoal](https://israel206.github.io/)
 
 #### **Contato**
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/israel-silva-047049128)](https://www.linkedin.com/in/israel-silva-047049128)
 
-### Vamos nos conectar? 👋
-
+#### Vamos nos conectar? 👋
 <p align = "center">
   <a href="https://github.com/israel206"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=israel206&layout=compact&theme=dark"/></a> 
   <a href="https://github.com/israel206"><img src="https://github-readme-stats.vercel.app/api?username=israel206&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="israel206"/></a>
