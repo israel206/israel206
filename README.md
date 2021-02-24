@@ -14,8 +14,6 @@ Software developer, it is with great satisfaction to have you on my GitHub page,
 
 O  aprendizado é continuo e o próximo nível nunca será o ultimo 🚀 
 
-#### Link do PortFolio pessoal sobre os projetos e experiencias nas tecnologias utilizadas: =>> [PortFolio Pessoal](https://israel206.github.io/)
-
 #### **Contato**
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/israel206)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/israel-silva-047049128)](https://www.linkedin.com/in/israel-silva-047049128)
