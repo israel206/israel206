@@ -8,7 +8,7 @@ Software developer, it is with great satisfaction to have you on my GitHub page,
 
 - 🎓Graduando em Analista de Sistema no Curso de Sistema de Informação
 - 👨‍💻Desenvolvedor FullStack
-- 💻Experiencia: Scrum, Git, UX, Prototipação, Metodologia ágil
+- 💻Experiencia: Scrum, UX, Prototipação, Metodologia ágil
 - 📚Estou aprendendo: , ReactJs, ReactNative, TypeScript,
 - 🎯 Tenho interesse: Em desenvolvimento Software Desktop, Web, Aplicações para dispositivos Mobile, Gestão de Projetos 
 
