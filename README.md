@@ -27,6 +27,7 @@ Software developer, it is with great satisfaction to have you on my GitHub page,
 
 #### 💻 Technologies & Tools
 ![Java](https://img.shields.io/badge/-Java-E42D2C?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-%2314354C?style=flat-square&logo&logo=python&logoColor=white")
 ![Spring](https://img.shields.io/badge/-Spring-6AAE3D?style=flat-square&logo=spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
