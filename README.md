@@ -12,7 +12,7 @@ Software developer, it is with great satisfaction to have you on my GitHub page,
 - 📚 Estou aprendendo: , React-Js, React-Native, TypeScript, Docker, Kubernetes
 - 🎯 Tenho interesse: Em desenvolvimento Software Desktop, Web, Aplicações para dispositivos Mobile, Gestão de Projetos 
 
-📫O aprendizado é continuo e o próximo nível nunca será o ultimo🚀
+O aprendizado é continuo e, o próximo nível nunca será o ultimo🚀
 
 <p align="center">
   <img alt="illustration" src=".github/illustration.png" width="30%">
