@@ -27,7 +27,8 @@ Software developer, it is with great satisfaction to have you on my GitHub page,
 
 #### 💻 Technologies & Tools
 ![Java](https://img.shields.io/badge/-Java-E42D2C?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-%2314354C?style=flat-square&logo&logo=python&logoColor=white")
+![Python](https://img.shields.io/badge/python-%2314354C?style=flat-square&logo=python&logoColor=white")
+![PHP](https://img.shields.io/badge/php-%23777BB4?style=flat-square&logo=php&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6AAE3D?style=flat-square&logo=spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
@@ -49,6 +50,8 @@ Software developer, it is with great satisfaction to have you on my GitHub page,
 ![React](https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0077C6?style=flat-square&logo=typescript&logoColor=fff)
+![Elixir](https://img.shields.io/badge/elixir-%234B275F?style=flat-square&logo=elixir&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8?style=flat-square&logo=go&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-316AE0?style=flat-square&logo=kubernetes&logoColor=white)
 
