@@ -6,10 +6,10 @@
 
 Software developer, it is with great satisfaction to have you on my GitHub page, I hope you like the repositories you find here, feel free to download and even contribute with ideas for improvements, as teamwork is one of the things that most motivate me, knowing this phase that we are all living in, we know that distance is necessary, but we Devs must stay together, so feel free, any questions I am available, just get in touch and I will help you in whatever is necessary! !!
 
-- 🎓Graduando em Analista de Sistema no Curso de Sistema de Informação
-- 👨‍💻Desenvolvedor FullStack
-- 💻Experiencia: Scrum, UX, Prototipação, Metodologia ágil
-- 📚Estou aprendendo: , React-Js, React-Native, TypeScript, Docker, Kubernetes
+- 🎓 Graduando em Analista de Sistema no Curso de Sistema de Informação
+- 👨‍💻 Desenvolvedor FullStack
+- 💻 Experiencia: Scrum, UX, Prototipação, Metodologia ágil
+- 📚 Estou aprendendo: , React-Js, React-Native, TypeScript, Docker, Kubernetes
 - 🎯 Tenho interesse: Em desenvolvimento Software Desktop, Web, Aplicações para dispositivos Mobile, Gestão de Projetos 
 
 📫 O  aprendizado é continuo e o próximo nível nunca será o ultimo 🚀
@@ -18,7 +18,7 @@ Software developer, it is with great satisfaction to have you on my GitHub page,
   <img alt="illustration" src=".github/illustration.png" width="30%">
 </p>
 
-#### **Contato**
+#### ** ✏📑📖 Contato**
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/israel206)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/israel-silva-047049128)](https://www.linkedin.com/in/israel-silva-047049128)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:israelfera2007@gmail.com)
@@ -46,7 +46,7 @@ Software developer, it is with great satisfaction to have you on my GitHub page,
 ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
 
-### 💻 Currently studying
+### 👨‍💻 Currently studying
 ![React](https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0077C6?style=flat-square&logo=typescript&logoColor=fff)
