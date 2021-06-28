@@ -2,7 +2,7 @@
  
 #### Nice to meet you, 👋👋👋 I'm Israel! A guy who loves technology 👨‍💻 👨‍💻👨‍
 
-<img align="right" width="400" height="400" src="https://user-images.githubusercontent.com/57039079/68556083-b2038700-0428-11ea-8add-e9abd09f6b23.gif">
+<img align="right" width="300" height="300" src="https://user-images.githubusercontent.com/57039079/68556083-b2038700-0428-11ea-8add-e9abd09f6b23.gif">
 
 Software developer, it is with great satisfaction to have you on my GitHub page, I hope you like the repositories you find here, feel free to download and even contribute with ideas for improvements, as teamwork is one of the things that most motivate me, knowing this phase that we are all living in, we know that distance is necessary, but we Devs must stay together, so feel free, any questions I am available, just get in touch and I will help you in whatever is necessary! !!
 
