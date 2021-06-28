@@ -1,6 +1,6 @@
-### Hello World! Welcome to 🌎🌎�
+### Hello World! Welcome to 🌎🌎
  
-#### Nice to meet you, 👋👋👋� I'm Israel! A guy who loves technology 👨‍💻 👨‍💻 👨‍💻 👨‍�
+#### Nice to meet you, 👋👋👋 I'm Israel! A guy who loves technology 👨‍💻 👨‍💻👨‍
 
 <img align="right" width="400" height="400" src="https://user-images.githubusercontent.com/57039079/68556083-b2038700-0428-11ea-8add-e9abd09f6b23.gif">
 
@@ -9,7 +9,7 @@ Software developer, it is with great satisfaction to have you on my GitHub page,
 - 🎓 Graduando em Analista de Sistema no Curso de Sistema de Informação
 - 👨‍💻 Desenvolvedor FullStack
 - 💻 Experiencia: Scrum, UX, Prototipação, Metodologia ágil
-- 📚 Estou aprendendo: , React-Js, React-Native, Flutter, TypeScript, Docker, Kubernetes
+- 📚 Estou aprendendo: Go, Elixir, React-Js, React-Native, Flutter, TypeScript, Docker, Kubernetes
 - 🎯 Tenho interesse: Em desenvolvimento Software Desktop, Web, Aplicações para dispositivos Mobile, Gestão de Projetos 
 
 O aprendizado é continuo e, o próximo nível nunca será o ultimo🚀
