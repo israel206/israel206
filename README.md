@@ -9,8 +9,8 @@ Software developer, it is with great satisfaction to have you on my GitHub page,
 - 🎓 Graduando em Analista de Sistema no Curso de Sistema de Informação
 - 👨‍💻 Desenvolvedor FullStack
 - 💻 Experiencia: Scrum, UX, Prototipação, Metodologia ágil
-- 📚 Estou aprendendo: Go, Elixir, React-Js, React-Native, Flutter, TypeScript, Docker, Kubernetes
-- 🎯 Tenho interesse: Em desenvolvimento Software Desktop, Web, Aplicações para dispositivos Mobile, Gestão de Projetos 
+- 📚 Estou aprendendo: Golang, Elixir, React-Js, React-Native, Flutter, TypeScript, Docker, Kubernetes
+- 🎯 Tenho interesse: Em desenvolvimento Software Desktop, Web, Aplicações para dispositivos Mobile e Gestão de Projetos 
 
 O aprendizado é continuo e, o próximo nível nunca será o ultimo🚀
 
