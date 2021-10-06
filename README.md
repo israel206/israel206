@@ -21,7 +21,7 @@ O aprendizado é continuo e, o próximo nível nunca será o ultimo🚀
 #### ** ✏📑📖 Contato**
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/israel-silva-047049128)](https://www.linkedin.com/in/israel-silva-047049128)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:israelfera2007@gmail.com)
-![GitHub followers](https://img.shields.io/github/followers/israel206?style=social)
+<!-- ![GitHub followers](https://img.shields.io/github/followers/israel206?style=social) -->
 
 #### 💻 Technologies & Tools
 ![Java](https://img.shields.io/badge/-Java-E42D2C?style=flat-square&logo=java&logoColor=white)
