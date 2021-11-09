@@ -1,10 +1,10 @@
-### Hello World! Welcome to 🌎🌎
+### Olá Mundo! Bem-vindo 🌎�
  
-#### Nice to meet you, 👋👋👋 I'm Israel! A guy who loves technology 👨‍💻 👨‍💻👨‍
+#### Prazer em conhecê-lo, 👋� Eu sou Israel! Um cara que ama tecnologia 👨‍�👨‍💻👨‍
 
 <img align="right" width="300" height="300" src="https://user-images.githubusercontent.com/57039079/68556083-b2038700-0428-11ea-8add-e9abd09f6b23.gif">
 
-Software developer, it is with great satisfaction to have you on my GitHub page, I hope you like the repositories you find here, feel free to download and even contribute with ideas for improvements, as teamwork is one of the things that most motivate me, knowing this phase that we are all living in, we know that distance is necessary, but we Devs must stay together, so feel free, any questions I am available, just get in touch and I will help you in whatever is necessary! !!
+Desenvolvedor de software, é uma grande satisfação ter você na minha página do GitHub, espero que goste dos repositórios que encontra aqui, fique à vontade para baixar e até contribuir com ideias de melhorias, pois o trabalho em equipe é uma das coisas que mais me motivam, sabendo dessa fase que todos vivemos, sabemos que a distância é necessária, mas nós Devs devemos ficar juntos, então fique à vontade, qualquer dúvida estou a disposição, é só entrar em contato e eu te ajudarei no que for preciso!!!
 
 - 🎓 Graduando em Analista de Sistema no Curso de Sistema de Informação
 - 👨‍💻 Desenvolvedor FullStack
