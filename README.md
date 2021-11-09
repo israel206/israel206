@@ -1,6 +1,6 @@
-### Olá Mundo! Bem-vindo 🌎�
+### Olá Mundo! Bem-vindo 🌎
  
-#### Prazer em conhecê-lo, 👋� Eu sou Israel! Um cara que ama tecnologia 👨‍�👨‍💻👨‍
+#### Prazer em conhecê-lo, 👋 Eu sou Israel! Um cara que ama tecnologia 👨‍👨‍💻👨‍
 
 <img align="right" width="300" height="300" src="https://user-images.githubusercontent.com/57039079/68556083-b2038700-0428-11ea-8add-e9abd09f6b23.gif">
 
@@ -54,7 +54,6 @@ O aprendizado é continuo e, o próximo nível nunca será o ultimo🚀
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-316AE0?style=flat-square&logo=kubernetes&logoColor=white)
 
 #### Vamos nos conectar? 👋
-
 #### ⭐ GitHub Stats
 <p align = "center">
   <a href="https://github.com/israel206"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=israel206&layout=compact&theme=dark"/></a> 
