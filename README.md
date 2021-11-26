@@ -1,6 +1,6 @@
 ### Olá Mundo! Bem-vindo 🌎
  
-#### Prazer em conhecê-lo, 👋 Eu sou Israel! Um cara que ama tecnologia 👨‍👨‍💻👨‍
+#### Prazer em conhecê-lo, 👋 Eu sou Israel! Um cara que ama tecnologia👨‍💻
 
 <img align="right" width="300" height="300" src="https://user-images.githubusercontent.com/57039079/68556083-b2038700-0428-11ea-8add-e9abd09f6b23.gif">
 
