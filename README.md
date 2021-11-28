@@ -2,7 +2,7 @@
  
 ### Prazer em conhecê-lo, 👋 Eu sou Israel! Um cara que ama tecnologia👨‍💻
 
-<img align="right" width="300" height="300" src="https://user-images.githubusercontent.com/57039079/68556083-b2038700-0428-11ea-8add-e9abd09f6b23.gif">
+<img align="right" width="300" height="300" src=".github/illustration.png">
 
 Desenvolvedor de software, é uma grande satisfação ter você na minha página do GitHub, espero que goste dos repositórios que encontra aqui, fique à vontade para baixar e até contribuir com ideias de melhorias, pois o trabalho em equipe é uma das coisas que mais me motivam, sabendo dessa fase que todos vivemos, sabemos que a distância é necessária, mas nós Devs devemos ficar juntos, então fique à vontade, qualquer dúvida estou a disposição, é só entrar em contato e eu te ajudarei no que for preciso!!!
 
