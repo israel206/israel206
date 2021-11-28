@@ -14,10 +14,6 @@ Desenvolvedor de software, é uma grande satisfação ter você na minha página
 
 O aprendizado é continuo e, o próximo nível nunca será o ultimo🚀
 
-<p align="center">
-  <img alt="illustration" src=".github/illustration.png" width="30%">
-</p>
-
 ### ** ✏📑📖 Contatos**
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/israel-silva-047049128)](https://www.linkedin.com/in/israel-silva-047049128)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:israelfera2007@gmail.com)
