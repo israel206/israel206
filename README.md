@@ -1,6 +1,6 @@
 ### Olá Mundo! Bem-vindo 🌎
  
-#### Prazer em conhecê-lo, 👋 Eu sou Israel! Um cara que ama tecnologia👨‍💻
+### Prazer em conhecê-lo, 👋 Eu sou Israel! Um cara que ama tecnologia👨‍💻
 
 <img align="right" width="300" height="300" src="https://user-images.githubusercontent.com/57039079/68556083-b2038700-0428-11ea-8add-e9abd09f6b23.gif">
 
@@ -18,12 +18,12 @@ O aprendizado é continuo e, o próximo nível nunca será o ultimo🚀
   <img alt="illustration" src=".github/illustration.png" width="30%">
 </p>
 
-#### ** ✏📑📖 Contatos**
+### ** ✏📑📖 Contatos**
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/israel-silva-047049128)](https://www.linkedin.com/in/israel-silva-047049128)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:israelfera2007@gmail.com)
 <!-- ![GitHub followers](https://img.shields.io/github/followers/israel206?style=social) -->
 
-#### 💻 Tecnologias e ferramentas
+### 💻 Tecnologias e ferramentas
 ![Java](https://img.shields.io/badge/-Java-E42D2C?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2314354C?style=flat-square&logo=python&logoColor=white")
 ![PHP](https://img.shields.io/badge/php-%23777BB4?style=flat-square&logo=php&logoColor=white)
