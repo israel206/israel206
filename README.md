@@ -1,12 +1,6 @@
-<<<<<<< HEAD
-### Hello World! Welcome to 🌎🌎
-
-#### Nice to meet you, 👋👋👋 I'm Israel! A guy who loves technology 👨‍💻 👨‍💻👨‍
-=======
 ### Olá Mundo! Bem-vindo 🌎
- 
+
 ### Prazer em conhecê-lo, 👋 Eu sou Israel! Um cara que ama tecnologia👨‍💻
->>>>>>> 6df73973b54cabdf4bf69bcbd2b99bee4318c154
 
 <img align="right" width="300" height="300" src=".github/illustration.png">
 
@@ -20,26 +14,14 @@ Desenvolvedor de software, é uma grande satisfação ter você na minha página
 
 O aprendizado é continuo e, o próximo nível nunca será o ultimo🚀
 
-<<<<<<< HEAD
-<p align="center">
-  <img alt="illustration" src=".github/illustration.png" width="30%">
-</p>
+### **✏📑📖 Contatos**
 
-#### **✏📑📖 Contato**
-
-=======
-### ** ✏📑📖 Contatos**
->>>>>>> 6df73973b54cabdf4bf69bcbd2b99bee4318c154
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/israel-silva-047049128)](https://www.linkedin.com/in/israel-silva-047049128)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:israelfera2007@gmail.com)
-<!-- ![GitHub followers](https://img.shields.io/github/followers/israel206?style=social) -->
+![GitHub followers](https://img.shields.io/github/followers/israel206?style=social)
 
-<<<<<<< HEAD
-#### 💻 Technologies & Tools
-
-=======
 ### 💻 Tecnologias e ferramentas
->>>>>>> 6df73973b54cabdf4bf69bcbd2b99bee4318c154
+
 ![Java](https://img.shields.io/badge/-Java-E42D2C?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2314354C?style=flat-square&logo=python&logoColor=white")
 ![PHP](https://img.shields.io/badge/php-%23777BB4?style=flat-square&logo=php&logoColor=white)
@@ -67,12 +49,8 @@ O aprendizado é continuo e, o próximo nível nunca será o ultimo🚀
 ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
 
-<<<<<<< HEAD
-### 👨‍💻 Currently studying
-
-=======
 ### 👨‍💻 Atualmente estudando
->>>>>>> 6df73973b54cabdf4bf69bcbd2b99bee4318c154
+
 ![React](https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0077C6?style=flat-square&logo=typescript&logoColor=fff)
@@ -82,6 +60,7 @@ O aprendizado é continuo e, o próximo nível nunca será o ultimo🚀
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-316AE0?style=flat-square&logo=kubernetes&logoColor=white)
 
 #### Vamos nos conectar? 👋
+
 #### ⭐ GitHub Stats
 
 <p align = "center">
