@@ -6,8 +6,8 @@
 
 Desenvolvedor de software, é uma grande satisfação ter você na minha página do GitHub, espero que goste dos repositórios que encontra aqui, fique à vontade para baixar e até contribuir com ideias de melhorias, pois o trabalho em equipe é uma das coisas que mais me motivam, sabendo dessa fase que todos vivemos, sabemos que a distância é necessária, mas nós Devs devemos ficar juntos, então fique à vontade, qualquer dúvida estou a disposição, é só entrar em contato e eu te ajudarei no que for preciso!!!
 
-- 🎓 Graduando em Analista de Sistema no Curso de Sistema de Informação
-- 👨‍💻 Desenvolvedor FullStack
+- 🎓 Bacharel em Analista de Sistema no Curso de Sistema de Informação
+- 👨‍💻 Desenvolvedor FullStack & FullCycle
 - 💻 Experiencia: Scrum, UX, Prototipação, Metodologia ágil
 - 📚 Estou aprendendo: Golang, Elixir, React-Js, React-Native, Flutter, TypeScript, Docker, Kubernetes
 - 🎯 Tenho interesse: Em desenvolvimento Software Desktop, Web, Aplicações para dispositivos Mobile e Gestão de Projetos
