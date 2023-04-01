@@ -1,26 +1,26 @@
 ### Olá Mundo! Bem-vindo 🌎
 
-### Prazer em conhecê-lo, 👋 Eu sou Israel! Um cara que ama tecnologia👨‍💻
+### Nice to meet you, 👋 I'm Israel! A guy who loves technology
 
 <img align="right" width="300" height="300" src=".github/illustration.png">
 
-Desenvolvedor de software, é uma grande satisfação ter você na minha página do GitHub, espero que goste dos repositórios que encontra aqui, fique à vontade para baixar e até contribuir com ideias de melhorias, pois o trabalho em equipe é uma das coisas que mais me motivam, sabendo dessa fase que todos vivemos, sabemos que a distância é necessária, mas nós Devs devemos ficar juntos, então fique à vontade, qualquer dúvida estou a disposição, é só entrar em contato e eu te ajudarei no que for preciso!!!
+Software developer, it's a great pleasure to have you on my GitHub page, I hope you like the repositories you find here, feel free to download and even contribute with ideas for improvements, because teamwork is one of the things that I love the most motivate, knowing this phase that we are all living, we know that distance is necessary, but we Devs must stay together, so feel free, any questions I am available, just get in touch and I will help you in whatever it takes !!!
 
-- 🎓 Bacharel em Analista de Sistema no Curso de Sistema de Informação
-- 👨‍💻 Desenvolvedor FullStack & FullCycle
-- 💻 Experiencia: Scrum, UX, Prototipação, Metodologia ágil
-- 📚 Estou aprendendo: Golang, Elixir, React-Js, React-Native, Flutter, TypeScript, Docker, Kubernetes
-- 🎯 Tenho interesse: Em desenvolvimento Software Desktop, Web, Aplicações para dispositivos Mobile e Gestão de Projetos
+- 🎓 Bachelor of System Analyst in the Information System Course
+- 👨‍💻 FullStack & FullCycle Developer
+- 💻 Experience: Scrum, UX, Prototyping, Agile Methodology
+- 📚 I'm learning: Golang, Elixir, React-Js, React-Native, Flutter, TypeScript, Docker, Kubernetes
+- 🎯 I'm interested in: Developing Desktop Software, Web, Applications for Mobile Devices and Project Management
 
-O aprendizado é continuo e, o próximo nível nunca será o ultimo🚀
+Learning is continuous and the next level will never be the last 🚀
 
-### **✏📑📖 Contatos**
+### **✏📑📖 Contacts**
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/israel-silva-047049128)](https://www.linkedin.com/in/israel-silva-047049128)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:israelfera2007@gmail.com)
 ![GitHub followers](https://img.shields.io/github/followers/israel206?style=social)
 
-### 💻 Tecnologias e ferramentas
+### 💻 Technologies and tools
 
 ![Java](https://img.shields.io/badge/-Java-E42D2C?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2314354C?style=flat-square&logo=python&logoColor=white")
@@ -51,7 +51,7 @@ O aprendizado é continuo e, o próximo nível nunca será o ultimo🚀
 ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
 
-### 👨‍💻 Atualmente estudando
+### 👨‍💻 currently studying
 
 ![React](https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-45b8d8?style=flat-square&logo=react&logoColor=white)
@@ -64,7 +64,7 @@ O aprendizado é continuo e, o próximo nível nunca será o ultimo🚀
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-316AE0?style=flat-square&logo=kubernetes&logoColor=white)
 
-#### Vamos nos conectar? 👋
+#### Shall we connect? 👋
 
 #### ⭐ GitHub Stats
 
